@@ -158,7 +158,7 @@ class _HomeScreenState extends State<HomeScreen> {
           );
         },
         icon: const Icon(Icons.add),
-        label: const Text('Add Creature'),
+        label: const Text('Creature'),
         backgroundColor: Theme.of(context).colorScheme.primary,
         foregroundColor: Colors.white,
       ),
